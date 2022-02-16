@@ -21,7 +21,7 @@ var jumpButton;
 let canvas;
 
 function preload(){
-    song = loadSound('http://sndup.net/nsvm', loaded);
+    song = loadSound('sound.mp3', loaded);
 }
 
 
